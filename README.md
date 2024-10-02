@@ -1,22 +1,33 @@
-## Bogdan Teplov
+## ⚽🧑‍💻 Bogdan Teplov
 
-I'm a Software Engineering student at the University of Canterbury, passionate about developing innovative solutions and tackling real-world problems with code. I love exploring new technologies, working on software projects, and continuously improving my skills.
+I am a Software Engineering student at the University of Canterbury, passionate about problem-solving, technology, and learning. I am eager to apply my knowledge in real-world applications and continuously enhance my expertise in software engineering.
 
-Welcome to my GitHub! Here, you'll find a mix of personal projects, coursework, and collaborative efforts to showcase my journey as a developer.
+## 📚 Education
 
-Feel free to explore and reach out if you'd like to collaborate!
+- University of Canterbury
+   — Bachelor of Engineering specialising in Software Engineering
 
-<!--
-**bteplovs/bteplovs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Skills and Tech
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt=".net" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />  
+<img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />       
+<br />
+        
+## 🌟 Projects
 
-Here are some ideas to get you started:
+Here are a few projects I've worked on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📫 Contact Me
+
+Feel free to reach out!
+
+- Email: Bteplovs@gmail.com
+- LinkedIn: https://www.linkedin.com/in/bogdans-teplovs-a10755205
+
+<!-- for icons https://devicon.dev/ -->
