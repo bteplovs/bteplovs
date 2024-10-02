@@ -1,4 +1,6 @@
-## ⚽🧑‍💻 Bogdan Teplov
+<p align="center">
+   <img src="https://readme-typing-svg.demolab.com?font=Tahoma+Bold&color=%3776ab&size=45&center=true&vCenter=true&width=450&duration=3000&pause=2000&lines=Bogdans+Teplovs;Software+Engineer" width="auto" height="35"/>
+</p>
 
 I am a Software Engineering student at the University of Canterbury, passionate about problem-solving, technology, and learning. I am eager to apply my knowledge in real-world applications and continuously enhance my expertise in software engineering.
 
@@ -29,13 +31,15 @@ Projects I've worked on:
       -	Designed and developed tailored to the needs of a small business.
       -	User-friendly features for tracking inventory, and stock levels in real-time.
 
-
-
 ## 📫 Contact Me
 
 Reach out!
 
 - Email: Bteplovs@gmail.com
 - LinkedIn: https://www.linkedin.com/in/bogdans-teplovs-a10755205
+
+<p align="center">
+   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Bogdans+Teplovs;Software+Engineer" width="auto" height="35"/>
+</p>
 
 <!-- for icons https://devicon.dev/ -->
