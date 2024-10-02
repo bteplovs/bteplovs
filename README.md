@@ -21,7 +21,11 @@ I am a Software Engineering student at the University of Canterbury, passionate 
 ## 🌟 Projects
 
 Projects I've worked on:
--  
+-  https://github.com/bteplovs/Produce-Management -- C#, SQL, .Net Framework, Visual Studio 
+      -  GUI desktop application built with Visual Studio
+      -	Designed and developed tailored to the needs of a small business.
+      -	User-friendly features for tracking inventory, and stock levels in real-time.
+
 
 
 ## 📫 Contact Me
