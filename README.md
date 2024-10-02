@@ -1,9 +1,9 @@
 
-<p align="center">
+<!-- <p align="center">
    <img src="https://readme-typing-svg.demolab.com?font=Tahoma+Bold&color=%3776ab&size=45&center=true&vCenter=true&width=450&duration=3000&pause=2000&lines=Bogdans+Teplovs;Software+Engineer" width="auto" height="35"/>
-</p>
+</p> -->
 
-<hr style="height:0.5px;border:none;color:#ccc;background-color:#ccc;" />
+## ⚽🧑‍💻 Bogdan Teplov
 
 I am a Software Engineering student at the University of Canterbury, passionate about problem-solving, technology, and learning. I am eager to apply my knowledge in real-world applications and continuously enhance my expertise in software engineering.
 
@@ -44,8 +44,5 @@ Reach out!
   <img src="https://github.com/user-attachments/assets/9bf59af3-2198-498f-abc5-9203008ffd3d" width="150" />
 </p>
 
-
-
-<!-- ## ⚽🧑‍💻 Bogdan Teplov -->
 
 <!-- for icons https://devicon.dev/ -->
