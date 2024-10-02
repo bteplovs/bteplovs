@@ -1,4 +1,10 @@
-## Hi there 👋
+## Bogdan Teplov
+
+I'm a Software Engineering student at the University of Canterbury, passionate about developing innovative solutions and tackling real-world problems with code. I love exploring new technologies, working on software projects, and continuously improving my skills.
+
+Welcome to my GitHub! Here, you'll find a mix of personal projects, coursework, and collaborative efforts to showcase my journey as a developer.
+
+Feel free to explore and reach out if you'd like to collaborate!
 
 <!--
 **bteplovs/bteplovs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
