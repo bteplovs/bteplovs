@@ -5,7 +5,7 @@ I am a Software Engineering student at the University of Canterbury, passionate 
 ## 📚 Education
 
 - University of Canterbury
-   — Bachelor of Engineering specialising in Software Engineering
+   — Bachelor of Engineering — Software Engineering
 
 ## 🛠️ Skills and Tech
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
