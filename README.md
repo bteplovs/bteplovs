@@ -20,12 +20,13 @@ I am a Software Engineering student at the University of Canterbury, passionate 
         
 ## 🌟 Projects
 
-Here are a few projects I've worked on:
+Projects I've worked on:
+-  
 
 
 ## 📫 Contact Me
 
-reach out!
+Reach out!
 
 - Email: Bteplovs@gmail.com
 - LinkedIn: https://www.linkedin.com/in/bogdans-teplovs-a10755205
