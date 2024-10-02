@@ -38,6 +38,13 @@ Reach out!
 - Email: Bteplovs@gmail.com
 - LinkedIn: https://www.linkedin.com/in/bogdans-teplovs-a10755205
 
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9bf59af3-2198-498f-abc5-9203008ffd3d" width="150" />
+</p>
+
+
+
 <!-- ## ⚽🧑‍💻 Bogdan Teplov -->
 
 <!-- for icons https://devicon.dev/ -->
