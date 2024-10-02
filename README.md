@@ -1,6 +1,9 @@
+
 <p align="center">
    <img src="https://readme-typing-svg.demolab.com?font=Tahoma+Bold&color=%3776ab&size=45&center=true&vCenter=true&width=450&duration=3000&pause=2000&lines=Bogdans+Teplovs;Software+Engineer" width="auto" height="35"/>
 </p>
+
+<hr style="height:0.5px;border:none;color:#ccc;background-color:#ccc;" />
 
 I am a Software Engineering student at the University of Canterbury, passionate about problem-solving, technology, and learning. I am eager to apply my knowledge in real-world applications and continuously enhance my expertise in software engineering.
 
@@ -18,9 +21,7 @@ I am a Software Engineering student at the University of Canterbury, passionate 
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />  
 <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" /> 
-<img align="left" alt="embedC" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/embeddedc/embeddedc-original.svg" />
-
-          
+<img align="left" alt="embedC" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/embeddedc/embeddedc-original.svg" />      
 <br />
         
 ## 🌟 Projects
